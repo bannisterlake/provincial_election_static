@@ -1,0 +1,7 @@
+{
+    "title": "Saskatchewan Election 2020",
+    "seats": 61,
+    "majority": 31,
+    "timer": 30000,
+    "initBounds": [[60.0640, -101.1912], [48.8869, -110.2068]]
+}

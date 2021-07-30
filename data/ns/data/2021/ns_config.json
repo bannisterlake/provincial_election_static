@@ -1,0 +1,8 @@
+{
+    "title": "Nova Scotia Election 2021",
+    "seats": 55,
+    "majority": 28,
+    "timer": 30000,
+    "initBounds": [[47.3462, -59.4580], [43.2052, -66.5340]],
+    "maxBounds": [[50.4478, -53.6567],[38.9478, -71.3759]]
+}
