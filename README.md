@@ -23,7 +23,7 @@ Create a directory in province's data folder for the desired year.
 - update the config to include: 
   - Election Title, 
   - Total Seats, 
-  - # Seats for Majority Win, 
+  - seats for Majority Win, 
   - Timer for interval between new data fetches
   - initBounds,maxBounds (ignore for now)
   - Filtered Results List if applicable. Requires "label", "URL" (to be used with BLADErunner), and "filename" fields. Add these files to a directory labeled "filtered" in the election directory
