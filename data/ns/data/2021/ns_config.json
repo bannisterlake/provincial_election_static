@@ -4,5 +4,12 @@
     "majority": 28,
     "timer": 30000,
     "initBounds": [[47.3462, -59.4580], [43.2052, -66.5340]],
-    "maxBounds": [[50.4478, -53.6567],[38.9478, -71.3759]]
+    "maxBounds": [[50.4478, -53.6567],[38.9478, -71.3759]],
+    "filteredResults": [
+        {
+            "label": "Landslide Race - 20% Lead", 
+            "URL" : "https://elector.blcloud.net/api/ResultSummary/filtered/lead_pct__gt_%3D20%3B/2017-05-30/?json=true", 
+            "filename": "fr_landslide.json"
+        }
+    ]
 }
