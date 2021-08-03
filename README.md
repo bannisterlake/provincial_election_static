@@ -16,7 +16,7 @@ Requires 4 files to work per election:
 "prov_ridingResults.json" - Riding/Candidate results via the "api/CandidateByRiding/?json=true" flow endpoint
 Filtered Results (NEW!): -within each year directory, add a directory named "filtered". -updated electionconfig.json with filter label, query url (that is pushed via BladeRunner. This URL is not actually used by widget, there for organization only) and filename to be stored in the filtered directory. -add as many filters as needed by adding a new object to the filtered results array.
 
-Set up a new year of data:
+# Set up a new year of data:
 
 Create a directory in province's data folder for the desired year.
 - add the required files as stated above.
