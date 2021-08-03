@@ -1,4 +1,4 @@
-# provincial_election_static
+# Canada Provincial Election Widget (static version)
 
 Can be connected directly to an S3 bucket.
 
