@@ -1,0 +1,39 @@
+{
+    "title": "Ontario Election 2022",
+    "seats": 124,
+    "majority": 63,
+    "election_day": "June 2 2022", 
+    "timer": 30000,
+    "initBounds": [[57.06463, -73.96024], [41.40977, -95.62361]],
+    "maxBounds": [[64.08, -64.2795],[29.7246, -106.2294]],
+    "filteredResults": [
+        {
+          "label": "Close Races - 5% Lead",
+          "URL": "http://cptorxprban001/flow-ns/api/ResultSummary/filtered/lead_pct__lt_%3D5%3B/?json=true",
+          "filename": "fr_close.json",
+          "urlSlug": "close",
+          "heading": "Other"
+        },
+        {
+          "label": "Very Close Races - 1% lead",
+          "URL": "http://cptorxprban001/flow-ns/api/ResultSummary/filtered/lead_pct__lt_%3D1%3B/?json=true",
+          "filename": "fr_veryclose.json",
+          "urlSlug": "veryclose",
+          "heading": "Other"
+        },
+        {
+          "label": "Party Changing",
+          "URL": "http://cptorxprban001/flow-ns/api/ResultSummary/filtered/party%21%3DpreParty%3B/?json=true",
+          "filename": "fr_partychanging.json",
+          "urlSlug": "partychanging",
+          "heading": "Other"
+        },
+        {
+          "label": "Party Unchanging",
+          "URL": "http://cptorxprban001/flow-ns/api/ResultSummary/filtered/party%3DpreParty%3B/?json=true",
+          "filename": "fr_partyunchanging.json",
+          "urlSlug": "partyunchanging",
+          "heading": "Other"
+        }
+    ]
+}

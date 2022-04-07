@@ -1,0 +1,18 @@
+{
+    "generated": "2022-03-07T19:06:21.8667650Z",
+    "overallResult": {
+    "partyName": "",
+    "partyNameShort": "",
+    "partyID": 0,
+    "partyName2": "",
+    "partyNameShort2": "",
+    "resultText": "",
+    "modifiedDate": "2022-02-22T23:59:32Z",
+    "votesEligible": 9879452,
+    "pollsTotal": 8418,
+    "pollsReporting": 8418,
+    "pollPercent": 100,
+    "votesCast": 5744860,
+    "votesPercent": 58.1
+    }
+    }

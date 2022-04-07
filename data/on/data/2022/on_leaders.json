@@ -1,0 +1,39 @@
+{
+    "parties": [
+        {
+            "partyName": "Ontario Liberal Party",
+            "partyNameShort": "LIB",
+            "partyLeader": "Steven Del Duca", 
+            "imgName": "LIB_Del Duca.jpg", 
+            "color": "white"
+        },
+        {
+            "partyName": "Ontario NDP",
+            "partyNameShort": "NDP",
+            "partyLeader": "Andrea Horwath", 
+            "imgName": "NDP_Horwath.jpg", 
+            "color": "black"
+        },
+        {
+            "partyName": "PC Party of Ontario",
+            "partyNameShort": "PC",
+            "partyLeader": "Doug Ford", 
+            "imgName": "PC_Ford.jpg", 
+            "color": "white"
+        }, 
+        {
+            "partyName": "Green Party of Ontario",
+            "partyNameShort": "GRN",
+            "partyLeader": "Mike Schreiner", 
+            "imgName": "GRN_Schreiner.jpg", 
+            "color": "white"
+        }, 
+        {
+            "partyName": "Other", 
+            "partyNameShort": "OTH", 
+            "partyLeader": "", 
+            "imgName": "", 
+            "color": "black"
+        }
+    ]
+}
