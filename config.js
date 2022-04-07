@@ -16,5 +16,9 @@ var CONFIG = {
             prov: 'ns', 
             year: 2021
         },
+        {
+            prov: 'on', 
+            year: 2022
+        }
     ]
 }
